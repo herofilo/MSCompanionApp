@@ -5,4 +5,4 @@ MSCompanionLib/obj
 MSCompanion_UnitTests/bin
 MSCompanion_UnitTests/obj
 OldVersions
-MSCompanion/TestData/UserDataDir
+MSCompanion/TestData/UserDataDir/Movies/*
