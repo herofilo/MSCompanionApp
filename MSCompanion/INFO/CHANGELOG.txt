@@ -1,4 +1,6 @@
 ﻿
 CHANGELOG
 ---------
+2015-06-05 :
+	Created GitHub repository. Pushed.
 
