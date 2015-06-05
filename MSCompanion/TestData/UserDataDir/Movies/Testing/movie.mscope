@@ -1,0 +1,1893 @@
+<movie>
+  <cast>
+    <character>
+      <notes/>
+      <template class="mscope.things.factory.BodyTemplate" model="Male01">
+        <bodyPart resolves-to="mscope.things.BodyPart$MorphInstance" template="Universal Head">
+          <material id="0" name="Heads/Full_Morph/Euro_Young_NoBrows [0]"/>
+          <material id="1" name="Heads/Full_Morph/M01_Mouth [1]"/>
+          <material id="2" name="Heads/Full_Morph/M01_Eyes_Blue2 [2]"/>
+          <material id="3" name="Heads/Full_Morph/M01_Eyelashes [3]"/>
+          <material id="4" name="Black Eyes"/>
+          <material id="5" name="Eye White"/>
+          <decal name="Euro Young 1"/>
+          <decal name="Eyebrows 02"/>
+          <decal name="Goatie"/>
+          <decal name="Moustache"/>
+          <decal name="Sideburns"/>
+          <decal name="Stubble 01"/>
+          <decal name="Stubble 02"/>
+          <decal name="Stubble 05"/>
+          <decal name="Stubble 06"/>
+          <baseTarget>Heads/Full_Morph/Euro_young</baseTarget>
+          <morphTargets>
+            <entry>
+              <string>Heads/Full_Morph/Cheeks_Thin</string>
+              <float>0.2</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Jaw_High</string>
+              <float>0.54</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Cheekbones_Forward</string>
+              <float>0.02</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Mouth_ThinLips</string>
+              <float>0.06</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Eyes_Asian</string>
+              <float>0.56</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Eyebrows_Arched</string>
+              <float>0.04</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Eyelashes_Reduce</string>
+              <float>0.06</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Ears_Flappy</string>
+              <float>0.24</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Euro_young</string>
+              <float>0.82</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Head_Var_05</string>
+              <float>0.8</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Neck_DoubleChin</string>
+              <float>0.1</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Nose_Indian</string>
+              <float>0.04</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Chin_Back</string>
+              <float>0.0</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Mouth_Up</string>
+              <float>0.02</float>
+            </entry>
+            <entry>
+              <string>Heads/Full_Morph/Afro_old</string>
+              <float>0.18</float>
+            </entry>
+          </morphTargets>
+        </bodyPart>
+        <bodyPart template="Hairstyle Short 02">
+          <material id="0" name="Hair/Hair_Short_02_Pop/M01_Pop_Black [0]"/>
+        </bodyPart>
+        <bodyPart template="Hoodie">
+          <material id="0" name="Costumes/Hoodie/Hoodie_Top [0]">
+            <ambientColor>0.33333334 0.35686275 0.23529412 1.0</ambientColor>
+            <diffuseColor>0.33333334 0.35686275 0.23529412 1.0</diffuseColor>
+            <shininess>16.0</shininess>
+          </material>
+          <material id="1" name="Costumes/Hoodie/Hoodie_Bottom [1]">
+            <ambientColor>0.19607843 0.23529412 0.3019608 1.0</ambientColor>
+            <diffuseColor>0.19607843 0.23529412 0.3019608 1.0</diffuseColor>
+            <shininess>16.0</shininess>
+          </material>
+          <material id="2" name="Costumes/Hoodie/Base_Mesh_Male_Body[2]">
+            <diffuseColor>0.78209966 0.592933 0.48907956 1.0</diffuseColor>
+            <shininess>31.0</shininess>
+          </material>
+        </bodyPart>
+      </template>
+      <wardrobe/>
+      <biography></biography>
+      <props/>
+      <markerColor>
+        <red>255</red>
+        <green>102</green>
+        <blue>153</blue>
+        <alpha>255</alpha>
+      </markerColor>
+      <mood>
+        <intimacy>0.5</intimacy>
+        <dominance>0.5</dominance>
+        <melodrama>0.5</melodrama>
+        <expressiveness>0.5</expressiveness>
+        <params>
+          <entry>
+            <string>IDLE</string>
+            <float>1.0</float>
+          </entry>
+        </params>
+        <sad>0.0</sad>
+        <happy>0.0</happy>
+        <anger>0.0</anger>
+        <disgust>0.0</disgust>
+        <surprise>0.0</surprise>
+        <fear>0.0</fear>
+      </mood>
+      <hidden>false</hidden>
+      <name>Mark</name>
+      <importance>10.0</importance>
+      <children class="linked-list"/>
+      <parent class="floor">
+        <width>50</width>
+        <depth>50</depth>
+        <height>0.0</height>
+        <gridsize>1.0</gridsize>
+        <surfaceMaps>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+          <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+        </surfaceMaps>
+        <materials>
+          <material>
+            <name>Floor_BasicGrid01</name>
+            <ambientColor>1.0 1.0 1.0 1.0</ambientColor>
+            <diffuseColor>0.7 0.7 0.7 1.0</diffuseColor>
+            <emissiveColor>0.0 0.0 0.0 0.0</emissiveColor>
+            <specularColor>0.3 0.3 0.3 1.0</specularColor>
+            <shininess>4.0</shininess>
+            <maps>
+              <entry>
+                <string>diffuseMap</string>
+                <string>Data/Materials/Floor/Floor_BasicGrid01.jpg</string>
+              </entry>
+            </maps>
+            <flags/>
+            <parameters/>
+          </material>
+        </materials>
+        <name>Floor</name>
+        <importance>0.0</importance>
+        <children class="linked-list">
+          <mark>
+            <owner>
+              <notes/>
+              <template class="mscope.things.factory.BodyTemplate" model="Male01">
+                <bodyPart resolves-to="mscope.things.BodyPart$MorphInstance" template="Universal Head">
+                  <material id="0" name="Heads/Full_Morph/Euro_Young_NoBrows [0]"/>
+                  <material id="1" name="Heads/Full_Morph/M01_Mouth [1]"/>
+                  <material id="2" name="Heads/Full_Morph/M01_Eyes_Blue2 [2]"/>
+                  <material id="3" name="Heads/Full_Morph/M01_Eyelashes [3]"/>
+                  <material id="4" name="Black Eyes"/>
+                  <material id="5" name="Eye White"/>
+                  <decal name="Eyebrows 05"/>
+                  <baseTarget>Heads/Full_Morph/Asian_young</baseTarget>
+                  <morphTargets class="linked-hash-map">
+                    <entry>
+                      <string>Heads/Full_Morph/Asian_young</string>
+                      <float>0.36</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Asian_old</string>
+                      <float>0.64</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Head_Var_03</string>
+                      <float>0.04</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Nose_Wide</string>
+                      <float>0.06</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Ears_Small</string>
+                      <float>0.02</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Jaw_Narrow</string>
+                      <float>0.04</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Chin_Pointy</string>
+                      <float>0.04</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Cheekbones_Narrow</string>
+                      <float>0.12</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Cheeks_Fat</string>
+                      <float>0.08</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Mouth_BigBottomLip</string>
+                      <float>0.02</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Mouth_Down</string>
+                      <float>0.14</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Eyebrows_Arched</string>
+                      <float>0.08</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Eyes_Bulge</string>
+                      <float>0.04</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Eyelashes_Reduce</string>
+                      <float>0.58</float>
+                    </entry>
+                    <entry>
+                      <string>Heads/Full_Morph/Sideburns02</string>
+                      <float>0.12</float>
+                    </entry>
+                  </morphTargets>
+                </bodyPart>
+                <bodyPart template="Hat and Hair Baseball Cap Forward Tucked">
+                  <material id="0" name="Hats/Hat_Baseball_Cap/Male_Baseball_Cap[0]"/>
+                  <material id="1" name="Hats/Hair4Hat_Bushhat/M01_Tucked_Hair_Black [1]"/>
+                </bodyPart>
+                <bodyPart template="Jeans_TShirt">
+                  <material id="1" name="Costumes/Jeans_TShirt/M01_01_Upper [1]"/>
+                  <material id="2" name="Costumes/Jeans_TShirt/M01_01_Lower jeans [2]"/>
+                  <material id="3" name="Costumes/Jeans_TShirt/M01_01_Arms [3]">
+                    <diffuseColor>0.66222996 0.59298444 0.44566765 1.0</diffuseColor>
+                    <shininess>32.0</shininess>
+                  </material>
+                </bodyPart>
+              </template>
+              <wardrobe/>
+              <props/>
+              <markerColor>
+                <red>102</red>
+                <green>230</green>
+                <blue>255</blue>
+                <alpha>255</alpha>
+              </markerColor>
+              <mood>
+                <intimacy>0.5</intimacy>
+                <dominance>0.5</dominance>
+                <melodrama>0.5</melodrama>
+                <expressiveness>0.5</expressiveness>
+                <params>
+                  <entry>
+                    <string>IDLE</string>
+                    <float>1.0</float>
+                  </entry>
+                </params>
+                <sad>0.0</sad>
+                <happy>0.0</happy>
+                <anger>0.0</anger>
+                <disgust>0.0</disgust>
+                <surprise>0.0</surprise>
+                <fear>0.0</fear>
+              </mood>
+              <hidden>false</hidden>
+              <name>Star</name>
+              <importance>10.0</importance>
+              <children class="linked-list"/>
+              <parent class="floor" reference="../../../.."/>
+              <properties/>
+            </owner>
+            <transform>0.1457139 0.9893268 0.0 19.893839 -0.9893268 0.1457139 0.0 24.732779 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0</transform>
+            <modifiedByUser>true</modifiedByUser>
+            <name>Star&apos;s mark 01</name>
+            <importance>0.0</importance>
+            <children class="linked-list"/>
+            <parent class="floor" reference="../../.."/>
+            <properties/>
+          </mark>
+          <mark>
+            <owner reference="../../../.."/>
+            <transform>-0.9982308 0.05945941 0.0 20.942574 -0.05945941 -0.9982308 0.0 23.5601 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0</transform>
+            <modifiedByUser>true</modifiedByUser>
+            <name>Mark&apos;s mark 01</name>
+            <importance>0.0</importance>
+            <children class="linked-list"/>
+            <parent class="floor" reference="../../.."/>
+            <properties/>
+          </mark>
+          <character reference="../mark/owner"/>
+          <character reference="../../.."/>
+        </children>
+        <properties/>
+      </parent>
+      <properties/>
+    </character>
+    <character reference="../character/parent/children/mark/owner"/>
+  </cast>
+  <sets/>
+  <scenes>
+    <scene>
+      <ID>1</ID>
+      <title>Demo Wheelchair</title>
+      <cast>
+        <character reference="../../../../cast/character"/>
+        <character reference="../../../../cast/character/parent/children/mark/owner"/>
+      </cast>
+      <script/>
+      <cameras>
+        <cameraman>
+          <markerColor>
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+            <alpha>255</alpha>
+          </markerColor>
+          <styles>
+            <styleMap/>
+          </styles>
+          <name>Main Camera</name>
+          <importance>0.0</importance>
+          <children class="linked-list"/>
+          <properties/>
+        </cameraman>
+      </cameras>
+      <cameraViewpoints>
+        <mscope.things.CameraViewpoint>
+          <name>view</name>
+          <framing class="OneShot">
+            <targetActor reference="../../../../../../cast/character/parent/children/mark/owner"/>
+            <targetBone1>Pseudo Eyes</targetBone1>
+            <targetBone2>MOUTH</targetBone2>
+            <horizFocus>0.5</horizFocus>
+            <panFactor>0.5</panFactor>
+            <tiltFactor>0.5</tiltFactor>
+            <vertFocus1>0.33</vertFocus1>
+            <vertFocus2>0.66999996</vertFocus2>
+            <targetRelPivot>0.0 0.0 0.0</targetRelPivot>
+            <keyFOV>0.4642576</keyFOV>
+            <cameraMat>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </framing>
+        </mscope.things.CameraViewpoint>
+        <mscope.things.CameraViewpoint>
+          <name>view</name>
+          <framing class="OneShot">
+            <targetActor reference="../../../../../../cast/character/parent/children/mark/owner"/>
+            <targetBone1>Pseudo Eyes</targetBone1>
+            <targetBone2>PELVIS</targetBone2>
+            <horizFocus>0.5</horizFocus>
+            <panFactor>0.5</panFactor>
+            <tiltFactor>0.5</tiltFactor>
+            <vertFocus1>0.15</vertFocus1>
+            <vertFocus2>0.85</vertFocus2>
+            <targetRelPivot>0.0 0.0 0.0</targetRelPivot>
+            <keyFOV>0.4642576</keyFOV>
+            <cameraMat>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </framing>
+        </mscope.things.CameraViewpoint>
+      </cameraViewpoints>
+      <marks>
+        <mark>
+          <owner reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <transform>0.0061967373 0.9999808 0.0 9.698501 -0.9999808 0.0061967373 0.0 25.492374 0.0 0.0 1.0 -4.440892E-16 0.0 0.0 0.0 1.0</transform>
+          <modifiedByUser>true</modifiedByUser>
+          <name>Star&apos;s mark 01</name>
+          <importance>0.0</importance>
+          <children class="linked-list"/>
+          <parent class="floor">
+            <width>50</width>
+            <depth>50</depth>
+            <height>0.0</height>
+            <gridsize>1.0</gridsize>
+            <surfaceMaps>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+            </surfaceMaps>
+            <materials>
+              <material>
+                <name>Floor_BasicGrid01</name>
+                <ambientColor>1.0 1.0 1.0 1.0</ambientColor>
+                <diffuseColor>0.7 0.7 0.7 1.0</diffuseColor>
+                <emissiveColor>0.0 0.0 0.0 0.0</emissiveColor>
+                <specularColor>0.3 0.3 0.3 1.0</specularColor>
+                <shininess>4.0</shininess>
+                <maps>
+                  <entry>
+                    <string>diffuseMap</string>
+                    <string>Data/Materials/Floor/Floor_BasicGrid01.jpg</string>
+                  </entry>
+                </maps>
+                <flags/>
+                <parameters/>
+              </material>
+            </materials>
+            <name>Floor</name>
+            <importance>0.0</importance>
+            <children class="linked-list">
+              <mark reference="../../.."/>
+            </children>
+            <properties/>
+          </parent>
+          <properties/>
+        </mark>
+      </marks>
+      <set>
+        <description></description>
+        <skyColor>0.84705883 0.91764706 0.9607843 1.0</skyColor>
+        <scenery>
+          <floor reference="../../../marks/mark/parent"/>
+          <ceiling>
+            <width>50</width>
+            <depth>50</depth>
+            <height>3.0</height>
+            <gridsize>1.0</gridsize>
+            <surfaceMaps>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+            </surfaceMaps>
+            <materials>
+              <null/>
+            </materials>
+            <name>Ceiling</name>
+            <importance>0.0</importance>
+            <children class="linked-list"/>
+            <properties/>
+          </ceiling>
+          <Prop>
+            <castShadows>true</castShadows>
+            <template class="mscope.things.factory.ModelTemplate" model="Set/SimpleNavMesh" name="Set/SimpleNavMesh/Simple Nav Mesh">
+              <part slot="0" template="Simple Nav Mesh">
+                <material id="0" name="White [0]"/>
+              </part>
+            </template>
+            <scale>1.0</scale>
+            <transform>-4.371139E-8 1.0 0.0 -15.589344 -1.0 -4.371139E-8 0.0 -0.9356528 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0</transform>
+            <hidden>false</hidden>
+            <name>Simple Nav Mesh</name>
+            <importance>0.0</importance>
+            <children class="linked-list">
+              <mscope.things.Seat>
+                <occupation>
+                  <null/>
+                </occupation>
+                <castShadows>true</castShadows>
+                <template class="mscope.things.factory.ModelTemplate" name="Wheelchair/Wheelchair"/>
+                <scale>1.0</scale>
+                <transform>1.0 0.0 0.0 -0.03556356 0.0 1.0 0.0 0.17534256 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0</transform>
+                <hidden>false</hidden>
+                <name>Wheelchair</name>
+                <importance>0.0</importance>
+                <children class="linked-list"/>
+                <parent class="Prop" reference="../../.."/>
+                <properties/>
+              </mscope.things.Seat>
+            </children>
+            <properties/>
+          </Prop>
+          <mscope.things.Seat reference="../Prop/children/mscope.things.Seat"/>
+        </scenery>
+        <lightPosition>99.999985 -100.0 141.42137</lightPosition>
+        <ambientLightColor>0.4 0.4 0.4</ambientLightColor>
+        <directionalLightColor>0.6 0.6 0.6</directionalLightColor>
+        <lightAzimuth>0.7853982</lightAzimuth>
+        <lightElevation>0.7853982</lightElevation>
+        <globalLightProperties>
+          <intensity>1.0</intensity>
+          <ambient>0.4 0.4 0.4 1.0</ambient>
+          <diffuse>0.6 0.6 0.6 1.0</diffuse>
+          <specular>0.6 0.6 0.6 1.0</specular>
+          <ambientIntensity>1.0</ambientIntensity>
+          <diffuseIntensity>1.0</diffuseIntensity>
+          <specularIntensity>1.0</specularIntensity>
+          <spotExponent>0.0</spotExponent>
+          <spotCutoff>180.0</spotCutoff>
+          <constantAttenuation>0.5</constantAttenuation>
+          <linearAttenuation>0.0</linearAttenuation>
+          <quadraticAttenuation>0.25</quadraticAttenuation>
+          <direction>-0.49999994 0.5 -0.7071068</direction>
+        </globalLightProperties>
+        <lightInterior>false</lightInterior>
+        <drawShadows>true</drawShadows>
+        <lensFlare>false</lensFlare>
+        <ambientDescriptor>
+          <sounds class="vector"/>
+        </ambientDescriptor>
+        <terrain name="Terrain for Set for scene 1" visible="true">
+          <material>
+            <specularColor>0.0 0.0 0.0 1.0</specularColor>
+            <shininess>120.0</shininess>
+            <maps>
+              <entry>
+                <string>diffuseMap2</string>
+                <string>Data/Materials/Terrain/sand_dif.dds</string>
+              </entry>
+              <entry>
+                <string>diffuseMap3</string>
+                <string>Data/Materials/Terrain/snow_dif.dds</string>
+              </entry>
+              <entry>
+                <string>diffuseMap</string>
+                <string>Data/Materials/Floor/Ground/Ground_Grass01_Diff.dds</string>
+              </entry>
+              <entry>
+                <string>diffuseMap1</string>
+                <string>Data/Materials/Terrain/rock_dif.dds</string>
+              </entry>
+            </maps>
+            <flags>
+              <string>TEXGEN</string>
+              <string>DONT_CAST_SHADOWS</string>
+              <string>DONT_SHOW_SHADOWS</string>
+            </flags>
+            <parameters>
+              <entry>
+                <string>splatOrigin</string>
+                <fuze3d.vecmath.Vector2f>
+                  <x>-202.5</x>
+                  <y>-202.5</y>
+                </fuze3d.vecmath.Vector2f>
+              </entry>
+              <entry>
+                <string>splatScale</string>
+                <float>0.002469136</float>
+              </entry>
+            </parameters>
+          </material>
+          <constraints>
+            <fuze3d.geography.SimpleTerrainData_-RectangularConstraint>
+              <xmin>-25.0</xmin>
+              <ymin>-25.0</ymin>
+              <xmax>25.0</xmax>
+              <ymax>25.0</ymax>
+              <height>-0.1</height>
+            </fuze3d.geography.SimpleTerrainData_-RectangularConstraint>
+          </constraints>
+        </terrain>
+        <navOrientation class="Point3f">58.319283 0.44669527 0.36845842</navOrientation>
+        <navPosition class="Point3f">-16.754265 0.5652393 0.1</navPosition>
+        <name>Set for scene 1</name>
+        <importance>0.0</importance>
+        <children class="linked-list"/>
+        <properties/>
+      </set>
+      <props/>
+      <schedule>
+        <mscope.things.activities.NavMeshMoveToMark>
+          <markDirty>false</markDirty>
+          <notPlaced>true</notPlaced>
+          <mark reference="../../../marks/mark"/>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>0.0</startTime>
+          <duration>0.0</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.NavMeshMoveToMark>
+        <keyframe>
+          <keyframe class="mscope.things.TargetShot">
+            <targetOffset>0.0 0.0 2.0</targetOffset>
+            <distance>0.0</distance>
+            <pan>1.5707964</pan>
+            <tilt>0.0</tilt>
+            <roll>0.0</roll>
+            <bearing>0.0</bearing>
+            <elevation>0.0</elevation>
+            <keyFOV>0.33955655</keyFOV>
+            <keyTransform>-4.371139E-8 -1.0 0.0 0.0 1.0 -4.371139E-8 0.0 0.0 0.0 0.0 1.0 2.0 0.0 0.0 0.0 1.0</keyTransform>
+            <cameraMat>-4.371139E-8 -1.0 0.0 0.0 1.0 -4.371139E-8 0.0 0.0 0.0 0.0 1.0 2.0 0.0 0.0 0.0 1.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </keyframe>
+          <pathInfo>
+            <linear>true</linear>
+            <tension>0.0</tension>
+            <continuity>0.0</continuity>
+            <bias>0.0</bias>
+          </pathInfo>
+          <cutTo>false</cutTo>
+          <startTime>0.0</startTime>
+          <duration>0.0</duration>
+          <subject class="cameraman" reference="../../../cameras/cameraman"/>
+          <isValid>true</isValid>
+        </keyframe>
+        <mscope.things.activities.Sit>
+          <seat reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Sit Down</verb>
+          <subjectAnim>interact/sit01_sitdown</subjectAnim>
+          <animTime>1.7147220373153687</animTime>
+          <bone>Bone02</bone>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>0.0</startTime>
+          <duration>4.581388592720032</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.Sit>
+        <MoodChange>
+          <newMood>
+            <intimacy>0.5</intimacy>
+            <dominance>0.5</dominance>
+            <melodrama>0.5</melodrama>
+            <expressiveness>0.5</expressiveness>
+            <params>
+              <entry>
+                <string>IDLE</string>
+                <float>1.0</float>
+              </entry>
+            </params>
+            <sad>0.0</sad>
+            <happy>0.0</happy>
+            <anger>0.0</anger>
+            <disgust>0.0</disgust>
+            <surprise>0.0</surprise>
+            <fear>0.0</fear>
+          </newMood>
+          <improvSeed>877096900799743560</improvSeed>
+          <generateImprovFlag>true</generateImprovFlag>
+          <showAdvancedCustomizer>false</showAdvancedCustomizer>
+          <generateLookAts>true</generateLookAts>
+          <improvVariation>0.5</improvVariation>
+          <meanBlinkTime>2.0</meanBlinkTime>
+          <meanSaccadeTime>3.0</meanSaccadeTime>
+          <breathingRate>1.0</breathingRate>
+          <breathingDepth>1.0</breathingDepth>
+          <startTime>0.0</startTime>
+          <duration>0.25</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </MoodChange>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Put feet on Wheelchair footrests</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_sit</subjectAnim>
+          <holdPose>false</holdPose>
+          <animTime>4.581388592720032</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>4.581388592720032</startTime>
+          <duration>0.6666666865348816</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Put hands on wheels 1</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_sittopush</subjectAnim>
+          <holdPose>false</holdPose>
+          <animTime>5.248055279254913</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>5.248055279254913</startTime>
+          <duration>0.6666666865348816</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Start pushing wheels</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_start_pushing</subjectAnim>
+          <propAnim>push_start</propAnim>
+          <holdPose>false</holdPose>
+          <animTime>5.914721965789795</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>5.914721965789795</startTime>
+          <duration>1.3333333730697632</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+        <mscope.things.vehicles.MotionPath>
+          <backwards>false</backwards>
+          <faceForwards>true</faceForwards>
+          <accelPlan>SMOOTH_START_AND_STOP</accelPlan>
+          <speed>11.36178</speed>
+          <acceleration>1.4357045</acceleration>
+          <startTime>6.287499904632568</startTime>
+          <schedule>
+            <mscope.things.vehicles.MotionKeyframe>
+              <position>-2.3574839 -0.015441358 0.0</position>
+              <orientation>0.0 0.0 0.0 1.0</orientation>
+              <speed>13.41</speed>
+              <faceForwards>true</faceForwards>
+              <startTime>5.978635311126709</startTime>
+              <duration>0.0</duration>
+              <subject class="Prop" reference="../../../../../set/scenery/Prop"/>
+              <isValid>true</isValid>
+            </mscope.things.vehicles.MotionKeyframe>
+          </schedule>
+          <subject class="Prop" reference="../../../set/scenery/Prop"/>
+          <isValid>true</isValid>
+        </mscope.things.vehicles.MotionPath>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Continue pushing wheels</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_push</subjectAnim>
+          <propAnim>push_loop</propAnim>
+          <holdPose>false</holdPose>
+          <animTime>7.248055338859558</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>7.248055338859558</startTime>
+          <duration>1.3333333730697632</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+        <mscope.things.activities.SoloPropAnim>
+          <name>Wheelchair/Wheels Spin (without being pushed)</name>
+          <anim reference="../../mscope.things.activities.PropInteract[4]/propAnim"/>
+          <startTime>8.581388711929321</startTime>
+          <duration>1.3333333730697632</duration>
+          <subject class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.SoloPropAnim>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Slow wheels</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_stop_pushing</subjectAnim>
+          <holdPose>false</holdPose>
+          <animTime>9.914722084999084</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>9.914722084999084</startTime>
+          <duration>1.0</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Stop slowing wheels</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_stop_pushing_reverse</subjectAnim>
+          <holdPose>false</holdPose>
+          <animTime>10.914722084999084</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>10.914722084999084</startTime>
+          <duration>1.0</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+        <mscope.things.activities.PropInteract>
+          <prop class="mscope.things.Seat" reference="../../../set/scenery/Prop/children/mscope.things.Seat"/>
+          <verb>Wheelchair/Put hands on armrests from wheels</verb>
+          <subjectAnim>interact/wheelchair/wheelchair_armresttopush_reverse</subjectAnim>
+          <holdPose>false</holdPose>
+          <animTime>11.914722084999084</animTime>
+          <rot180Subj>false</rot180Subj>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>11.914722084999084</startTime>
+          <duration>0.6666666865348816</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.PropInteract>
+      </schedule>
+      <styles>
+        <styleMap/>
+      </styles>
+      <ambientSoundLevel>0.3</ambientSoundLevel>
+      <dialogueSoundLevel>1.0</dialogueSoundLevel>
+      <foleySoundLevel>0.5</foleySoundLevel>
+      <keepCameraCuts>true</keepCameraCuts>
+      <duration>0.0</duration>
+    </scene>
+    <scene>
+      <ID>2</ID>
+      <title>02</title>
+      <cast>
+        <character reference="../../../../cast/character"/>
+        <character reference="../../../../cast/character/parent/children/mark/owner"/>
+      </cast>
+      <script/>
+      <cameras>
+        <cameraman>
+          <markerColor reference="../../../../scene/cameras/cameraman/markerColor"/>
+          <styles>
+            <styleMap/>
+          </styles>
+          <name>Main Camera</name>
+          <importance>0.0</importance>
+          <children class="linked-list"/>
+          <properties/>
+        </cameraman>
+      </cameras>
+      <cameraViewpoints>
+        <mscope.things.CameraViewpoint>
+          <name>view</name>
+          <framing class="OneShot">
+            <targetActor reference="../../../../../../cast/character"/>
+            <targetBone1>Pseudo Eyes</targetBone1>
+            <targetBone2>MOUTH</targetBone2>
+            <horizFocus>0.5</horizFocus>
+            <panFactor>0.5</panFactor>
+            <tiltFactor>0.5</tiltFactor>
+            <vertFocus1>0.33</vertFocus1>
+            <vertFocus2>0.66999996</vertFocus2>
+            <targetRelPivot>0.0 0.0 0.0</targetRelPivot>
+            <keyFOV>0.4642576</keyFOV>
+            <cameraMat>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </framing>
+        </mscope.things.CameraViewpoint>
+        <mscope.things.CameraViewpoint>
+          <name>view</name>
+          <framing class="OneShot">
+            <targetActor reference="../../../../../../cast/character"/>
+            <targetBone1>Pseudo Eyes</targetBone1>
+            <targetBone2>PELVIS</targetBone2>
+            <horizFocus>0.5</horizFocus>
+            <panFactor>0.5</panFactor>
+            <tiltFactor>0.5</tiltFactor>
+            <vertFocus1>0.15</vertFocus1>
+            <vertFocus2>0.85</vertFocus2>
+            <targetRelPivot>0.0 0.0 0.0</targetRelPivot>
+            <keyFOV>0.4642576</keyFOV>
+            <cameraMat>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </framing>
+        </mscope.things.CameraViewpoint>
+        <mscope.things.CameraViewpoint>
+          <name>view</name>
+          <framing class="OneShot">
+            <targetActor reference="../../../../../../cast/character/parent/children/mark/owner"/>
+            <targetBone1>Pseudo Eyes</targetBone1>
+            <targetBone2>MOUTH</targetBone2>
+            <horizFocus>0.5</horizFocus>
+            <panFactor>0.5</panFactor>
+            <tiltFactor>0.5</tiltFactor>
+            <vertFocus1>0.33</vertFocus1>
+            <vertFocus2>0.66999996</vertFocus2>
+            <targetRelPivot>0.0 0.0 0.0</targetRelPivot>
+            <keyFOV>0.4642576</keyFOV>
+            <cameraMat>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </framing>
+        </mscope.things.CameraViewpoint>
+        <mscope.things.CameraViewpoint>
+          <name>view</name>
+          <framing class="OneShot">
+            <targetActor reference="../../../../../../cast/character/parent/children/mark/owner"/>
+            <targetBone1>Pseudo Eyes</targetBone1>
+            <targetBone2>PELVIS</targetBone2>
+            <horizFocus>0.5</horizFocus>
+            <panFactor>0.5</panFactor>
+            <tiltFactor>0.5</tiltFactor>
+            <vertFocus1>0.15</vertFocus1>
+            <vertFocus2>0.85</vertFocus2>
+            <targetRelPivot>0.0 0.0 0.0</targetRelPivot>
+            <keyFOV>0.4642576</keyFOV>
+            <cameraMat>0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </framing>
+        </mscope.things.CameraViewpoint>
+      </cameraViewpoints>
+      <marks>
+        <mark reference="../../../../cast/character/parent/children/mark[2]"/>
+        <mark reference="../../../../cast/character/parent/children/mark"/>
+      </marks>
+      <set>
+        <description></description>
+        <skyColor>0.84705883 0.91764706 0.9607843 1.0</skyColor>
+        <scenery>
+          <floor reference="../../../../../cast/character/parent"/>
+          <ceiling>
+            <width>50</width>
+            <depth>50</depth>
+            <height>3.0</height>
+            <gridsize>1.0</gridsize>
+            <surfaceMaps>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+              <int-array>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </int-array>
+            </surfaceMaps>
+            <materials>
+              <null/>
+            </materials>
+            <name>Ceiling</name>
+            <importance>0.0</importance>
+            <children class="linked-list"/>
+            <properties/>
+          </ceiling>
+        </scenery>
+        <lightPosition>99.999985 -100.0 141.42137</lightPosition>
+        <ambientLightColor>0.4 0.4 0.4</ambientLightColor>
+        <directionalLightColor>0.6 0.6 0.6</directionalLightColor>
+        <lightAzimuth>0.7853982</lightAzimuth>
+        <lightElevation>0.7853982</lightElevation>
+        <globalLightProperties>
+          <intensity>1.0</intensity>
+          <ambient>0.4 0.4 0.4 1.0</ambient>
+          <diffuse>0.6 0.6 0.6 1.0</diffuse>
+          <specular>0.6 0.6 0.6 1.0</specular>
+          <ambientIntensity>1.0</ambientIntensity>
+          <diffuseIntensity>1.0</diffuseIntensity>
+          <specularIntensity>1.0</specularIntensity>
+          <spotExponent>0.0</spotExponent>
+          <spotCutoff>180.0</spotCutoff>
+          <constantAttenuation>0.5</constantAttenuation>
+          <linearAttenuation>0.0</linearAttenuation>
+          <quadraticAttenuation>0.25</quadraticAttenuation>
+          <direction>-0.49999994 0.5 -0.7071068</direction>
+        </globalLightProperties>
+        <lightInterior>false</lightInterior>
+        <drawShadows>true</drawShadows>
+        <lensFlare>false</lensFlare>
+        <ambientDescriptor>
+          <sounds class="vector"/>
+        </ambientDescriptor>
+        <terrain name="Terrain for Set for scene 2" visible="true">
+          <material>
+            <specularColor>0.0 0.0 0.0 1.0</specularColor>
+            <shininess>120.0</shininess>
+            <maps>
+              <entry>
+                <string>diffuseMap2</string>
+                <string>Data/Materials/Terrain/sand_dif.dds</string>
+              </entry>
+              <entry>
+                <string>diffuseMap3</string>
+                <string>Data/Materials/Terrain/snow_dif.dds</string>
+              </entry>
+              <entry>
+                <string>diffuseMap</string>
+                <string>Data/Materials/Floor/Ground/Ground_Grass01_Diff.dds</string>
+              </entry>
+              <entry>
+                <string>diffuseMap1</string>
+                <string>Data/Materials/Terrain/rock_dif.dds</string>
+              </entry>
+            </maps>
+            <flags>
+              <string>TEXGEN</string>
+              <string>DONT_CAST_SHADOWS</string>
+              <string>DONT_SHOW_SHADOWS</string>
+            </flags>
+            <parameters>
+              <entry>
+                <string>splatOrigin</string>
+                <fuze3d.vecmath.Vector2f>
+                  <x>-202.5</x>
+                  <y>-202.5</y>
+                </fuze3d.vecmath.Vector2f>
+              </entry>
+              <entry>
+                <string>splatScale</string>
+                <float>0.002469136</float>
+              </entry>
+            </parameters>
+          </material>
+          <constraints>
+            <fuze3d.geography.SimpleTerrainData_-RectangularConstraint>
+              <xmin>-25.0</xmin>
+              <ymin>-25.0</ymin>
+              <xmax>25.0</xmax>
+              <ymax>25.0</ymax>
+              <height>-0.1</height>
+            </fuze3d.geography.SimpleTerrainData_-RectangularConstraint>
+          </constraints>
+        </terrain>
+        <navOrientation class="Point3f">6.808272 -0.7706729 0.5203666</navOrientation>
+        <navPosition class="Point3f">-3.1502972 -1.478487 0.95203793</navPosition>
+        <name>Set for scene 2</name>
+        <importance>0.0</importance>
+        <children class="linked-list"/>
+        <properties/>
+      </set>
+      <props/>
+      <schedule>
+        <mscope.things.activities.NavMeshMoveToMark>
+          <markDirty>false</markDirty>
+          <notPlaced>true</notPlaced>
+          <mark reference="../../../../../cast/character/parent/children/mark"/>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>0.0</startTime>
+          <duration>0.0</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.NavMeshMoveToMark>
+        <mscope.things.activities.NavMeshMoveToMark>
+          <markDirty>false</markDirty>
+          <notPlaced>true</notPlaced>
+          <mark reference="../../../../../cast/character/parent/children/mark[2]"/>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>0.0</startTime>
+          <duration>0.0</duration>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.NavMeshMoveToMark>
+        <MoodChange>
+          <newMood>
+            <intimacy>0.5</intimacy>
+            <dominance>0.5</dominance>
+            <melodrama>0.5</melodrama>
+            <expressiveness>0.5</expressiveness>
+            <params>
+              <entry>
+                <string>IDLE</string>
+                <float>1.0</float>
+              </entry>
+            </params>
+            <sad>0.0</sad>
+            <happy>0.0</happy>
+            <anger>0.0</anger>
+            <disgust>0.0</disgust>
+            <surprise>0.0</surprise>
+            <fear>0.0</fear>
+          </newMood>
+          <improvSeed>-6044305962754985496</improvSeed>
+          <generateImprovFlag>true</generateImprovFlag>
+          <showAdvancedCustomizer>false</showAdvancedCustomizer>
+          <generateLookAts>true</generateLookAts>
+          <improvVariation>0.5</improvVariation>
+          <meanBlinkTime>2.0</meanBlinkTime>
+          <meanSaccadeTime>3.0</meanSaccadeTime>
+          <breathingRate>1.0</breathingRate>
+          <breathingDepth>1.0</breathingDepth>
+          <startTime>0.0</startTime>
+          <duration>0.25</duration>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </MoodChange>
+        <MoodChange>
+          <newMood>
+            <intimacy>0.5</intimacy>
+            <dominance>0.5</dominance>
+            <melodrama>0.5</melodrama>
+            <expressiveness>0.5</expressiveness>
+            <params>
+              <entry>
+                <string>IDLE</string>
+                <float>1.0</float>
+              </entry>
+            </params>
+            <sad>0.0</sad>
+            <happy>0.0</happy>
+            <anger>0.0</anger>
+            <disgust>0.0</disgust>
+            <surprise>0.0</surprise>
+            <fear>0.0</fear>
+          </newMood>
+          <improvSeed>4372910084311995779</improvSeed>
+          <generateImprovFlag>true</generateImprovFlag>
+          <showAdvancedCustomizer>false</showAdvancedCustomizer>
+          <generateLookAts>true</generateLookAts>
+          <improvVariation>0.5</improvVariation>
+          <meanBlinkTime>2.0</meanBlinkTime>
+          <meanSaccadeTime>3.0</meanSaccadeTime>
+          <breathingRate>1.0</breathingRate>
+          <breathingDepth>1.0</breathingDepth>
+          <startTime>0.0</startTime>
+          <duration>0.25</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </MoodChange>
+        <MoodChange>
+          <newMood>
+            <intimacy>0.5</intimacy>
+            <dominance>0.5</dominance>
+            <melodrama>0.5</melodrama>
+            <expressiveness>0.5</expressiveness>
+            <params>
+              <entry>
+                <string>IDLE</string>
+                <float>1.0</float>
+              </entry>
+            </params>
+            <sad>0.0</sad>
+            <happy>0.0</happy>
+            <anger>0.0</anger>
+            <disgust>0.0</disgust>
+            <surprise>0.0</surprise>
+            <fear>0.0</fear>
+          </newMood>
+          <improvSeed>-8864373647643947716</improvSeed>
+          <generateImprovFlag>true</generateImprovFlag>
+          <showAdvancedCustomizer>false</showAdvancedCustomizer>
+          <generateLookAts>true</generateLookAts>
+          <improvVariation>0.5</improvVariation>
+          <meanBlinkTime>2.0</meanBlinkTime>
+          <meanSaccadeTime>3.0</meanSaccadeTime>
+          <breathingRate>1.0</breathingRate>
+          <breathingDepth>1.0</breathingDepth>
+          <startTime>1.3500001430511475</startTime>
+          <duration>0.25</duration>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </MoodChange>
+        <mscope.things.activities.SoloAnim>
+          <anim>blownabout/collapseback_start</anim>
+          <name>Posture/Blown About/Collapse Back</name>
+          <animTime>1.3600001430511472</animTime>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>1.3600001430511472</startTime>
+          <duration>2.0</duration>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.SoloAnim>
+        <mscope.things.activities.LookAt>
+          <target class="character" reference="../../../../../cast/character"/>
+          <headWeight>0.6</headWeight>
+          <lookingWith>BOTH</lookingWith>
+          <blendTime>0.5</blendTime>
+          <targetLocation>HEAD</targetLocation>
+          <startTime>2.9499999284744263</startTime>
+          <duration>Infinity</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.LookAt>
+        <keyframe>
+          <keyframe class="mscope.things.TargetShot">
+            <targetOffset>0.0 0.0 2.0</targetOffset>
+            <distance>0.0</distance>
+            <pan>1.5707964</pan>
+            <tilt>0.0</tilt>
+            <roll>0.0</roll>
+            <bearing>0.0</bearing>
+            <elevation>0.0</elevation>
+            <keyFOV>0.33955655</keyFOV>
+            <keyTransform>-4.371139E-8 -1.0 0.0 0.0 1.0 -4.371139E-8 0.0 0.0 0.0 0.0 1.0 2.0 0.0 0.0 0.0 1.0</keyTransform>
+            <cameraMat>-4.371139E-8 -1.0 0.0 0.0 1.0 -4.371139E-8 0.0 0.0 0.0 0.0 1.0 2.0 0.0 0.0 0.0 1.0</cameraMat>
+            <lineSide>1</lineSide>
+            <distanceToFocalPoint>3.0</distanceToFocalPoint>
+            <focalRange>1024.0</focalRange>
+          </keyframe>
+          <pathInfo>
+            <linear>true</linear>
+            <tension>0.0</tension>
+            <continuity>0.0</continuity>
+            <bias>0.0</bias>
+          </pathInfo>
+          <cutTo>false</cutTo>
+          <startTime>3.0</startTime>
+          <duration>0.0</duration>
+          <subject class="cameraman" reference="../../../cameras/cameraman"/>
+          <isValid>true</isValid>
+        </keyframe>
+        <MoodChange>
+          <newMood>
+            <intimacy>0.5</intimacy>
+            <dominance>0.5</dominance>
+            <melodrama>0.5</melodrama>
+            <expressiveness>0.5</expressiveness>
+            <params>
+              <entry>
+                <string>IDLE</string>
+                <float>1.0</float>
+              </entry>
+              <entry>
+                <string>Happy</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Afraid</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Negative</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>LISTENING</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Flirty</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Angry</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>TALKING</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Puzzled</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Surprised</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Positive</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Stern</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Bored</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Sad</string>
+                <float>0.0</float>
+              </entry>
+            </params>
+            <sad>0.0</sad>
+            <happy>0.0</happy>
+            <anger>0.0</anger>
+            <disgust>0.0</disgust>
+            <surprise>0.0</surprise>
+            <fear>0.0</fear>
+          </newMood>
+          <improvSeed>2284236156835637726</improvSeed>
+          <generateImprovFlag>true</generateImprovFlag>
+          <showAdvancedCustomizer>false</showAdvancedCustomizer>
+          <generateLookAts>true</generateLookAts>
+          <improvVariation>0.5</improvVariation>
+          <meanBlinkTime>2.0</meanBlinkTime>
+          <meanSaccadeTime>3.0</meanSaccadeTime>
+          <breathingRate>1.0</breathingRate>
+          <breathingDepth>1.0</breathingDepth>
+          <startTime>3.0</startTime>
+          <duration>0.25</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </MoodChange>
+        <MoodChange>
+          <newMood>
+            <intimacy>0.5</intimacy>
+            <dominance>0.5</dominance>
+            <melodrama>0.5</melodrama>
+            <expressiveness>0.0</expressiveness>
+            <params>
+              <entry>
+                <string>IDLE</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Happy</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Afraid</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Negative</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>LISTENING</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Flirty</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Angry</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>TALKING</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Puzzled</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Surprised</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Positive</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Stern</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Bored</string>
+                <float>0.0</float>
+              </entry>
+              <entry>
+                <string>Sad</string>
+                <float>0.0</float>
+              </entry>
+            </params>
+            <sad>0.0</sad>
+            <happy>0.0</happy>
+            <anger>0.0</anger>
+            <disgust>0.0</disgust>
+            <surprise>0.0</surprise>
+            <fear>0.0</fear>
+          </newMood>
+          <improvSeed>-7833155789014072458</improvSeed>
+          <generateImprovFlag>false</generateImprovFlag>
+          <showAdvancedCustomizer>false</showAdvancedCustomizer>
+          <generateLookAts>false</generateLookAts>
+          <improvVariation>1.0</improvVariation>
+          <meanBlinkTime>0.0</meanBlinkTime>
+          <meanSaccadeTime>0.0</meanSaccadeTime>
+          <breathingRate>0.0</breathingRate>
+          <breathingDepth>0.0</breathingDepth>
+          <presetName>Dead</presetName>
+          <startTime>3.0000001192092896</startTime>
+          <duration>0.25</duration>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </MoodChange>
+        <mscope.things.activities.SoloAnim>
+          <anim>solo/kneelboth_start</anim>
+          <name>Posture/Kneel (from standing)</name>
+          <animTime>3.01</animTime>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>3.01</startTime>
+          <duration>1.8333333730697632</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.SoloAnim>
+        <mscope.things.activities.CompoundGesture>
+          <resources class="enum-set" enum-type="mscope.things.ai.StateMachine$Resource">SKULL,LEFT_ARM,RIGHT_ARM,TORSO,LEFT_LEG,RIGHT_LEG</resources>
+          <startTime>4.862499952316284</startTime>
+          <schedule>
+            <mscope.things.activities.GestureSequence>
+              <startTime>0.0</startTime>
+              <schedule>
+                <mscope.things.activities.Gesture>
+                  <anim class="gesture">improvisations/improv_groom_11_shoelace</anim>
+                  <startTime>0.0</startTime>
+                  <duration>5.825000286102295</duration>
+                  <subject class="character" reference="../../../../../../../../../cast/character/parent/children/mark/owner"/>
+                  <isValid>true</isValid>
+                </mscope.things.activities.Gesture>
+              </schedule>
+              <subject class="character" reference="../../../../../../../cast/character/parent/children/mark/owner"/>
+              <isValid>true</isValid>
+            </mscope.things.activities.GestureSequence>
+            <mscope.things.activities.GestureSequence>
+              <startTime>0.0</startTime>
+              <schedule/>
+              <subject class="character" reference="../../../../../../../cast/character/parent/children/mark/owner"/>
+              <isValid>true</isValid>
+            </mscope.things.activities.GestureSequence>
+            <mscope.things.activities.GestureSequence>
+              <startTime>0.0</startTime>
+              <schedule/>
+              <subject class="character" reference="../../../../../../../cast/character/parent/children/mark/owner"/>
+              <isValid>true</isValid>
+            </mscope.things.activities.GestureSequence>
+            <mscope.things.activities.GestureSequence>
+              <startTime>0.0</startTime>
+              <schedule>
+                <mscope.things.activities.Gesture>
+                  <anim class="gesture">improvisations/improv_surprise_02_shakeminor</anim>
+                  <startTime>5.637500047683716</startTime>
+                  <duration>4.0</duration>
+                  <subject class="character" reference="../../../../../../../../../cast/character/parent/children/mark/owner"/>
+                  <isValid>true</isValid>
+                </mscope.things.activities.Gesture>
+              </schedule>
+              <subject class="character" reference="../../../../../../../cast/character/parent/children/mark/owner"/>
+              <isValid>true</isValid>
+            </mscope.things.activities.GestureSequence>
+          </schedule>
+          <description>Gesture Sequence</description>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.CompoundGesture>
+        <mscope.things.activities.CompoundGesture>
+          <resources class="enum-set" enum-type="mscope.things.ai.StateMachine$Resource">EYES,SKULL,RIGHT_ARM</resources>
+          <startTime>5.0249998569488525</startTime>
+          <schedule>
+            <mscope.things.activities.GestureSequence>
+              <startTime>0.0</startTime>
+              <schedule>
+                <mscope.things.activities.Gesture>
+                  <anim class="gesture">gestures/shuteyes</anim>
+                  <startTime>0.0</startTime>
+                  <duration>0.13333334028720856</duration>
+                  <subject class="character" reference="../../../../../../../../../cast/character"/>
+                  <isValid>true</isValid>
+                </mscope.things.activities.Gesture>
+                <mscope.things.activities.Gesture>
+                  <anim class="gesture">gestures/shuteyes_reverse</anim>
+                  <startTime>4.012500047683716</startTime>
+                  <duration>0.13333334028720856</duration>
+                  <subject class="character" reference="../../../../../../../../../cast/character"/>
+                  <isValid>true</isValid>
+                </mscope.things.activities.Gesture>
+                <mscope.things.activities.Gesture>
+                  <anim class="gesture">gestures/cough_1</anim>
+                  <startTime>4.145833387970924</startTime>
+                  <duration>2.0</duration>
+                  <subject class="character" reference="../../../../../../../../../cast/character"/>
+                  <isValid>true</isValid>
+                </mscope.things.activities.Gesture>
+              </schedule>
+              <subject class="character" reference="../../../../../../../cast/character"/>
+              <isValid>true</isValid>
+            </mscope.things.activities.GestureSequence>
+            <mscope.things.activities.GestureSequence>
+              <startTime>0.0</startTime>
+              <schedule/>
+              <subject class="character" reference="../../../../../../../cast/character"/>
+              <isValid>true</isValid>
+            </mscope.things.activities.GestureSequence>
+          </schedule>
+          <description>Gesture Sequence</description>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.CompoundGesture>
+        <mscope.things.activities.SoloAnim>
+          <anim>blownabout/collapseback_stop</anim>
+          <name>Posture/Blown About/Stand up</name>
+          <animTime>10.100000381469727</animTime>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>10.100000381469727</startTime>
+          <duration>3.0</duration>
+          <subject class="character" reference="../../../../../cast/character"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.SoloAnim>
+        <mscope.things.activities.SoloAnim>
+          <anim>solo/kneelboth_stop</anim>
+          <name>Posture/Stand (from kneeling)</name>
+          <animTime>11.287500143051147</animTime>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>11.287500143051147</startTime>
+          <duration>2.3333332538604736</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.SoloAnim>
+        <mscope.things.activities.SoloAnim>
+          <anim>gaits/turn45right</anim>
+          <name>Posture/Turn/45 degrees right</name>
+          <animTime>13.620833396911621</animTime>
+          <locomotionParameters>
+            <gaitBlend>0.0</gaitBlend>
+            <speed>0.21784411</speed>
+            <stride>1.0</stride>
+            <timeScale>1.0</timeScale>
+          </locomotionParameters>
+          <gait>Walk02</gait>
+          <gaitBlend>0.0</gaitBlend>
+          <speed>1.0</speed>
+          <stride>1.0</stride>
+          <startTime>13.620833396911621</startTime>
+          <duration>0.800000011920929</duration>
+          <subject class="character" reference="../../../../../cast/character/parent/children/mark/owner"/>
+          <isValid>true</isValid>
+        </mscope.things.activities.SoloAnim>
+      </schedule>
+      <styles>
+        <styleMap/>
+      </styles>
+      <ambientSoundLevel>0.3</ambientSoundLevel>
+      <dialogueSoundLevel>1.0</dialogueSoundLevel>
+      <foleySoundLevel>0.5</foleySoundLevel>
+      <keepCameraCuts>true</keepCameraCuts>
+      <duration>0.0</duration>
+    </scene>
+  </scenes>
+  <newCutsSchedule>
+    <mscope.cuttingroom.FilterAC>
+      <startTime>0.0</startTime>
+      <schedule/>
+      <description>Filters</description>
+      <isValid>true</isValid>
+    </mscope.cuttingroom.FilterAC>
+    <mscope.cuttingroom.EditsContainer>
+      <startTime>0.0</startTime>
+      <schedule/>
+      <description>Edits</description>
+      <isValid>true</isValid>
+    </mscope.cuttingroom.EditsContainer>
+    <mscope.cuttingroom.OverlayAC>
+      <startTime>0.0</startTime>
+      <schedule/>
+      <description>Overlay</description>
+      <isValid>true</isValid>
+    </mscope.cuttingroom.OverlayAC>
+    <mscope.cuttingroom.AudioAC>
+      <startTime>0.0</startTime>
+      <schedule/>
+      <description>Audio</description>
+      <isValid>true</isValid>
+    </mscope.cuttingroom.AudioAC>
+  </newCutsSchedule>
+  <title>Testing</title>
+  <director>jamoram62</director>
+  <isCelShaded>false</isCelShaded>
+  <allowImprov>true</allowImprov>
+  <useEnhancedWalks>true</useEnhancedWalks>
+  <useEnhancedCameras>true</useEnhancedCameras>
+  <environment>
+    <wind>
+      <strength>
+        <name>strength</name>
+        <meanValue>0.0</meanValue>
+        <sigma>0.0</sigma>
+        <minValue>0.0</minValue>
+        <maxValue>Infinity</maxValue>
+      </strength>
+      <heading>
+        <name>heading</name>
+        <meanValue>0.0</meanValue>
+        <sigma>0.0</sigma>
+        <minValue>-180.0</minValue>
+        <maxValue>180.0</maxValue>
+      </heading>
+      <lastUpdatedFrame>-1</lastUpdatedFrame>
+    </wind>
+    <gravity>
+      <strength>9.81</strength>
+      <lastUpdatedFrame>-1</lastUpdatedFrame>
+    </gravity>
+  </environment>
+  <clipBinDataModel>
+    <audioResArr/>
+    <videoResArr/>
+    <imageResArr/>
+  </clipBinDataModel>
+  <isSavable>false</isSavable>
+  <scenarioProperties>
+    <entry>
+      <string>COPY_IN</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>huds</string>
+      <string>Data/Scenario/GeneralScenario</string>
+    </entry>
+    <entry>
+      <string>lastView</string>
+      <string>on set</string>
+    </entry>
+  </scenarioProperties>
+  <scenario class="mscope.ui.scenario.GeneralScenario"/>
+  <styleSheet>
+    <styleMap/>
+  </styleSheet>
+</movie>

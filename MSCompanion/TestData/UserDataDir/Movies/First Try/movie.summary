@@ -1,0 +1,64 @@
+<movieSummary>
+  <serialVersionID>10</serialVersionID>
+  <createdWithMoviestormBuild>Moviestorm 1.7.0 release 30717, 30/09/14</createdWithMoviestormBuild>
+  <savedWithMoviestormBuild>Moviestorm 1.7.0 release 30717, 30/09/14</savedWithMoviestormBuild>
+  <hasSetProblems>true</hasSetProblems>
+  <hasCharacterProblems>false</hasCharacterProblems>
+  <hasSceneProblems>false</hasSceneProblems>
+  <hasTutorial>false</hasTutorial>
+  <personnel>
+    <personnel>
+      <entry>
+        <string>Director</string>
+        <vector>
+          <mscope.things.Credits_-Contributor>
+            <role>Director</role>
+            <name>jamoram62</name>
+          </mscope.things.Credits_-Contributor>
+        </vector>
+      </entry>
+    </personnel>
+  </personnel>
+  <addOnsUsed>
+    <addonentry>
+      <name>Core</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Core</friendly>
+    </addonentry>
+    <addonentry>
+      <name>LawAndOrder</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Law and Order</friendly>
+    </addonentry>
+    <addonentry>
+      <name>MaleHairstyles</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Male Hairstyles</friendly>
+    </addonentry>
+    <addonentry>
+      <name>Wardrobe02</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Wardrobe 2</friendly>
+    </addonentry>
+    <addonentry>
+      <name>MusicVideo02</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>R&amp;B and Dance Music Video</friendly>
+    </addonentry>
+    <addonentry>
+      <name>Wardrobe01</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Wardrobe 1</friendly>
+    </addonentry>
+    <addonentry>
+      <name>SciFi01</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Sci-Fi</friendly>
+    </addonentry>
+    <addonentry>
+      <name>Base01</name>
+      <publisher>ShortFuze</publisher>
+      <friendly>Base01</friendly>
+    </addonentry>
+  </addOnsUsed>
+</movieSummary>
