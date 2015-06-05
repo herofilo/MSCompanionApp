@@ -1,0 +1,19 @@
+<mscope.social.SetHomework>
+  <itemLookup>
+    <entry>
+      <string>SetThumbs</string>
+      <mscope.social.FileOnTheMove>
+        <directories class="vector">
+          <string>Scenes</string>
+          <string>01</string>
+        </directories>
+        <fileName>set thumbnail.jpg</fileName>
+      </mscope.social.FileOnTheMove>
+    </entry>
+  </itemLookup>
+  <comment>An open market square, ready for the hustle and bustle of the 1 AD lifestyle.</comment>
+  <title>Market Square</title>
+  <savedType>mscope.things.Set</savedType>
+  <timeCreated>2011-06-13 17:21:38.526 BST</timeCreated>
+  <version>9</version>
+</mscope.social.SetHomework>
